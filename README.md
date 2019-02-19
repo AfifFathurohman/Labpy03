@@ -7,7 +7,7 @@
 - Latihan 1: Latihan1.py
 - Latihan 2: Latihan2.py
 - Pemrograman 1: Pemrograman1.py
-\
+
 
 
 ### **Latihan1: Latihan1.py**

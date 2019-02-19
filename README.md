@@ -56,7 +56,7 @@ medapatkan laba. Pada bulan ketiga baru mulai mendapatkan laba sebesar
 1% dan pada bulan kelima,  pendapatan meningkat 5%, selanjutnya pada 
 bulan kedelapan mengalami penurunan keuntungan sebesar 2%, sehingga laba 
 menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya
-\
+
 \
 **Ini codingannya**
 

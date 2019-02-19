@@ -1,7 +1,7 @@
 ### **TUGAS PRAKTIKUM 3**
 \
 		Assalamualaikum wr wb
-\
+
 
 **Disini saya akan menampilkan 3 pemrograman:**
 - Latihan 1: Latihan1.py
@@ -16,7 +16,7 @@
 2. Nilai **n** diisi pada saat runtime
 3. Anda bisa menggunakan kombinasi **while** dan **for** untuk menyelesaikannya
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
-\
+
 \
 **Ini codingannya**
 
@@ -34,7 +34,7 @@
 
 - Buat program untuk menampilkan bilangan yang diinputkan 
 dan angka 0 untuk berhenti
-\
+
 \
 **Ini codingannya**
 
@@ -48,7 +48,7 @@ dan angka 0 untuk berhenti
 \
 
 
-### **Pemrograman 1: Pemrograman1.py
+### **Pemrograman 1: Pemrograman1.py**
 
 - Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya 
 dengan modal awal 100 juta, pada bulan pertama dan kedua belum 

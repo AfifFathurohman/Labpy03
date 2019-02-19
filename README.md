@@ -1,20 +1,22 @@
 ### **TUGAS PRAKTIKUM 3**
 \
-	Assalamualaikum wr wb
+		Assalamualaikum wr wb
 \
+
 **Disini saya akan menampilkan 3 pemrograman:**
 - Latihan 1: Latihan1.py
 - Latihan 2: Latihan2.py
 - Pemrograman 1: Pemrograman1.py
 \
-\
+
 
 ### **Latihan1: Latihan1.py**
-\
+
 1. Tampilkan **n** bilangan acak yang lebih kecil dari 0.5
 2. Nilai **n** diisi pada saat runtime
 3. Anda bisa menggunakan kombinasi **while** dan **for** untuk menyelesaikannya
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
+\
 \
 **Ini codingannya**
 
@@ -26,12 +28,13 @@
 ![foto 
 2](https://user-images.githubusercontent.com/46735362/53027135-f1530780-3496-11e9-8a0f-c2b421b5181b.png)
 \
-\
+
 
 ### **Latihan 2: Latihan2.py**
-\
+
 - Buat program untuk menampilkan bilangan yang diinputkan 
 dan angka 0 untuk berhenti
+\
 \
 **Ini codingannya**
 
@@ -43,16 +46,17 @@ dan angka 0 untuk berhenti
 ![foto 
 4](https://user-images.githubusercontent.com/46735362/53027619-df259900-3497-11e9-8e0c-8dcfd6e6e9c9.png)
 \
-\
+
 
 ### **Pemrograman 1: Pemrograman1.py
-\
+
 - Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya 
 dengan modal awal 100 juta, pada bulan pertama dan kedua belum 
 medapatkan laba. Pada bulan ketiga baru mulai mendapatkan laba sebesar 
 1% dan pada bulan kelima,  pendapatan meningkat 5%, selanjutnya pada 
 bulan kedelapan mengalami penurunan keuntungan sebesar 2%, sehingga laba 
 menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya
+\
 \
 **Ini codingannya**
 
@@ -71,4 +75,4 @@ menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya
 Sekian tugas praktikum 3 dari saya, apabila ada kekurangan atau 
 kesalahan kata mohon dimaafkan
 
-	Wassalamualaikum wr wb
+		Wassalamualaikum wr wb
